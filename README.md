@@ -6,7 +6,7 @@ This project analyzes UFO sightings in relation to historical and forecasted wea
 
 ## 📁 Project Structure
 
-ufo_project/
+data_wrangling__project//
 
 - Cleans UFO data and enriches with historical weather:
   
