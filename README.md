@@ -49,6 +49,11 @@ Output:
 👥 Collaboration
 This project is designed for collaborative analysis and reproducibility. All code is modular, documented, and ready for team sharing.
 
+## 📽️ Project Presentation
+
+You can view the full project presentation here:  
+[UFO Sightings & Forecast Analysis — Canva Presentation](https://www.canva.com/design/DAG1fV_s9to/1CI9lOwQ2Z0MuaFpfgnZuA/edit?utm_content=DAG1fV_s9to&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 👥 Authors
 - António Gouveia
 - Martín Paez
