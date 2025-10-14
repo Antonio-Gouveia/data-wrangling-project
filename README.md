@@ -5,7 +5,21 @@ This project analyzes UFO sightings in relation to historical and forecasted wea
 ---
 
 ## 📁 Project Structure
-ufo_project/ ├── notebook_1_data_enrichment.ipynb     # Cleans UFO data and enriches with historical weather ├── notebook_2_forecast_analysis.ipynb   # Scores sightings and forecasts optimal conditions ├── weather_utils.py                     # Functions for caching and historical weather API ├── forecast_utils.py                    # Functions for scoring, forecasting, and geocoding └── README.md                            # Project overview and instructions
+ufo_project/
+
+- Cleans UFO data and enriches with historical weather:
+  
+ufo_weather_full.ipynb
+- Scores sightings and forecasts optimal conditions:
+  
+UFOscope.ipynb 
+- Functions for scoring, forecasting, and geocoding:
+  
+weather_utils.py                     
+forecast_utils.py
+- Project overview and instructions:
+  
+README.md 
 
 
 ---
