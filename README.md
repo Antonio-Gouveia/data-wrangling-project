@@ -8,17 +8,17 @@ This project analyzes UFO sightings in relation to historical and forecasted wea
 
 ufo_project/
 
-- Cleans UFO data and enriches with historical weather
+- Cleans UFO data and enriches with historical weather:
   
 ufo_weather_full.ipynb
-- Scores sightings and forecasts optimal conditions
+- Scores sightings and forecasts optimal conditions:
   
 UFOscope.ipynb 
-- Functions for scoring, forecasting, and geocoding
+- Functions for scoring, forecasting, and geocoding:
   
 weather_utils.py                     
 forecast_utils.py
-- Project overview and instructions
+- Project overview and instructions:
   
 README.md                            
 
