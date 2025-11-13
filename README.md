@@ -23,7 +23,7 @@ Before running the notebooks, install the required packages:
 ```bash
 pip install pandas numpy requests geopy tqdm folium
 
-📓 Notebook 1: notebook_1_data_enrichment.ipynb
+📓 Notebook 1: ufo_weather_full.ipynb
 Purpose:
 - Load and clean UFO sightings dataset
 - Fetch historical weather data for each sighting
@@ -31,7 +31,7 @@ Purpose:
 Output:
 - ufo_weather_full.csv — enriched dataset with weather features
 
-📓 Notebook 2: notebook_2_forecast_analysis.ipynb
+📓 Notebook 2: UFOscope.ipynb
 Purpose:
 - Score sightings based on visibility and duration
 - Select top 500 sightings from fall months
